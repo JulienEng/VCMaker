@@ -2,34 +2,12 @@
 
 The **V**ibronic **C**oupling **Maker** is a piece of code developped by Julien Eng, currently a PDRA in the Penfold Group at Newcastle University ([Click here to know more!](http://www.penfoldgroup.co.uk/))
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JulienEng/VCMaker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**VCMaker** aims at extracting all the parameters needed to build a Linear Vibronic Coupling Hamiltonian from ab initio calculations.
+The first version of **VCMaker** will allow to:
+* Extract the intrastate virbonic coupling from the Cartesian energy gradient projected onto the normal modes.
+* Extract the intrastate virbonic coupling from displaced geometries.
+* Extract the interstate vibronic coupling from Franck-Condon Hessian calculations.
+* Generate geometry scans alone dimensionless normal coordinates (DNC).
+* Generate Quantics friendly outputs .
