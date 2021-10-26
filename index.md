@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the home of VCMaker
 
-You can use the [editor on GitHub](https://github.com/JulienEng/VCMaker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The **V**ibronic **C**oupling **Maker** is a piece of code developped by Julien Eng, currently a PDRA in the Penfold Group at Newcastle University ([Click here to know more!](http://www.penfoldgroup.co.uk/))
 
 ### Markdown
 
