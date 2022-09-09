@@ -1,6 +1,6 @@
 ## Welcome to the home of VCMaker
 
-The **V**ibronic **C**oupling **Maker** is a piece of code developped by Julien Eng, currently a PDRA in the Penfold Group at Newcastle University ([Click here to know more!](http://www.penfoldgroup.co.uk/))
+**V**ibronic **C**oupling **Maker** is a piece of code developped by Julien Eng, currently a PDRA in the Penfold Group at Newcastle University ([Click here to know more!](http://www.penfoldgroup.co.uk/))
 
 ### Features
 
@@ -19,3 +19,7 @@ The first version of **VCMaker** will allow to:
 ### About **VCMaker**
 
 **VCMaker** is written in Fortran and aims at being easily used with any ab initio softwares. The ultimate goal is to bridge the gap between ab initio quantum chemistry softwares and quantum dynamics programs by allowing an easy set up of the diabatic Hamiltonian!
+
+### Social Media
+
+Follow **VCMaker** on twitter for the latest updates: @VCMaker_je
