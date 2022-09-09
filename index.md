@@ -23,4 +23,4 @@ The first version of **VCMaker** will allow to:
 
 ### Social Media
 
-Follow **VCMaker** on twitter for the latest updates: @VCMaker_je
+Follow **VCMaker** on twitter for the latest updates: <img src="https://raw.githubusercontent.com/JulienEng/VCMaker/gh-pages/docs/assets/images/twitter.png" width=2% height=2%>@VCMaker_je
