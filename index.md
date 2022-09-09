@@ -3,6 +3,8 @@
 
 **V**ibronic **C**oupling **Maker** is a piece of code developped by Julien Eng, currently a PDRA in the Penfold Group at Newcastle University ([Click here to know more!](http://www.penfoldgroup.co.uk/))
 
+### Disclaimer
+
 ### Features
 
 **VCMaker** aims at extracting all the parameters needed to build a Linear Vibronic Coupling Hamiltonian from ab initio calculations.
@@ -24,3 +26,5 @@ The first version of **VCMaker** will allow to:
 ### Social Media
 
 Follow **VCMaker** on twitter for the latest updates: <img src="https://raw.githubusercontent.com/JulienEng/VCMaker/gh-pages/docs/assets/images/twitter.png" width=2% height=2%>@VCMaker_je
+
+### What does **VCMaker** logo represent?
