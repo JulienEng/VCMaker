@@ -28,3 +28,7 @@ The first version of **VCMaker** will allow to:
 Follow **VCMaker** on twitter for the latest updates: <img src="https://raw.githubusercontent.com/JulienEng/VCMaker/gh-pages/docs/assets/images/twitter.png" width=2% height=2%>@VCMaker_je
 
 ### What does **VCMaker** logo represent?
+
+The logo represents a Bretzel (can also be spelled Pretzel), a traditional pastry from Alsace (the easternmost region of France) and Germany. Really, you should try it !
+Its entangled structure contains the letters V, C and M of **VCMaker**. Can you spot them ?!1
+The red on white colours are the traditional colour of the Alsace region shown on the "Rot un Wiss" flag.
