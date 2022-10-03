@@ -9,8 +9,8 @@
 
 **VCMaker** aims at extracting all the parameters needed to build a Linear Vibronic Coupling Hamiltonian from ab initio calculations.
 The first version of **VCMaker** will allow to:
-* Extract the intrastate virbonic coupling from the Cartesian energy gradient projected onto the normal modes.
-* Extract the intrastate virbonic coupling from displaced geometries.
+* Extract the intrastate vibronic coupling from the Cartesian energy gradient projected onto the normal modes.
+* Extract the intrastate vibronic coupling from displaced geometries.
 * Extract the interstate vibronic coupling from Franck-Condon Hessian calculations.
 * Generate geometry scans alone dimensionless normal coordinates (DNC).
 * Generate [Quantics](https://www2.chem.ucl.ac.uk/worthgrp/quantics/doc/) friendly outputs .
