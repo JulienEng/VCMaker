@@ -1,5 +1,6 @@
 ## Welcome to the home of VCMaker
 <img src="https://raw.githubusercontent.com/JulienEng/VCMaker/gh-pages/docs/assets/images/VCMaker.png" width=25% height=25%>
+![Book logo](/docs/assets/images/VCMaker.png)
 
 **V**ibronic **C**oupling **Maker** is a piece of code developped by Julien Eng, currently a PDRA in the Penfold Group at Newcastle University ([Click here to know more!](http://www.penfoldgroup.co.uk/))
 
