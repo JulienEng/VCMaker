@@ -1,0 +1,33 @@
+##### README file for VCMaker v1.0
+
+
+   ██╗   ██╗ ██████╗███╗   ███╗ █████╗ ██╗  ██╗███████╗██████╗
+   ██║   ██║██╔════╝████╗ ████║██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
+   ██║   ██║██║     ██╔████╔██║███████║█████╔╝ █████╗  ██████╔╝
+   ╚██╗ ██╔╝██║     ██║╚██╔╝██║██╔══██║██╔═██╗ ██╔══╝  ██╔══██╗
+    ╚████╔╝ ╚██████╗██║ ╚═╝ ██║██║  ██║██║  ██╗███████╗██║  ██║
+     ╚═══╝   ╚═════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+                                         v1.0          
+
+ +=============================================================+
+ |  J. Eng*                                                    |
+ |  * Chemistry, School of Natural and Environmental Sciences, |
+ |    Newcastle University, NE1 7RU, Newcastle Upon Tyne, UK   |
+ |                                                             |
+ | VCMaker website: julieneng.github.io/VCMaker/               |
+ |                                                             |
+ +=============================================================+
+
+VCMaker v1.0 is written in modern Fortran.
+In order to build VCMaker go in the root folder of VCMaker ($VCDIR) and type:
+
+make clean ; make all
+
+Fortran compiler can be changed by editing the 'Makefile' files in $VCDIR, in $VCDIR/subroutines/ and in $VCDIR/modules/ .
+
+Executable file is 'vcmaker.x' in the $VCDIR.
+
+User manual (.tex and .pdf) can be found in $VDIR/doc
+
+Please report any bug/issue to: infos.vcmaker@gmail.com
+And follow VCMaker on Twitter: @VCMaker_je
