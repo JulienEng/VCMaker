@@ -1,5 +1,5 @@
 ## Welcome to the home of VCMaker
-![Book logo](/docs/assets/images/VCMaker_mini.png?raw=true)
+![Book logo](/docs/assets/images/VCMaker_mini.png)
 <img src="/docs/assets/images/VCMaker_mini.png" alt="Testing" title="title test">
 
 **V**ibronic **C**oupling **Maker** is a piece of code developped by Julien Eng, currently a PDRA in the Penfold Group at Newcastle University ([Click here to know more!](http://www.penfoldgroup.co.uk/))
