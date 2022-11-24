@@ -2,6 +2,18 @@
 ![Book logo](/docs/assets/images/VCMaker_mini.png)
 <img src="/docs/assets/images/VCMaker_mini.png" alt="Testing" title="title test">
 
+<table>
+  <tr>
+    <th> <img src="https://julieneng.github.io/VCMaker/docs/assets/images/VCMaker_mini.png" alt="Testing" title="title test"> </th>
+
+    <th>  </th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
+
 **V**ibronic **C**oupling **Maker** is a piece of code developped by Julien Eng, currently a PDRA in the Penfold Group at Newcastle University ([Click here to know more!](http://www.penfoldgroup.co.uk/))
 
 ### Disclaimer
