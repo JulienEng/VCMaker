@@ -22,8 +22,8 @@ OBJS= tools.o \
       mk_hess.o \
       mk_kappa_grad.o \
       mk_kappa_disp.o \
-      mk_gap.o \
-      mk_lambda_work.o \
+      mk_gfi.o \
+      mk_lambda.o \
       mk_nm.o \
       mk_genxyz.o \
       mk_min.o \
@@ -32,7 +32,7 @@ OBJS= tools.o \
       out_input.o \
       out_kgrad.o \
       out_kdisp.o \
-      out_rsma.o \
+      out_rsmf.o \
       out_lambda.o \
       get_alignxyz.o\
       out_quantics.o \
