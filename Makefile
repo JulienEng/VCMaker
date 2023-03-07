@@ -26,8 +26,8 @@ SUBOBJS= $(SUBDIRS)/tools.o \
          $(SUBDIRS)/mk_hess.o \
          $(SUBDIRS)/mk_kappa_grad.o \
          $(SUBDIRS)/mk_kappa_disp.o \
-         $(SUBDIRS)/mk_gap.o \
-         $(SUBDIRS)/mk_lambda_work.o \
+         $(SUBDIRS)/mk_gfi.o \
+         $(SUBDIRS)/mk_lambda.o \
          $(SUBDIRS)/mk_nm.o \
          $(SUBDIRS)/mk_genxyz.o \
          $(SUBDIRS)/mk_min.o \
@@ -36,7 +36,7 @@ SUBOBJS= $(SUBDIRS)/tools.o \
          $(SUBDIRS)/out_input.o \
          $(SUBDIRS)/out_kgrad.o \
          $(SUBDIRS)/out_kdisp.o \
-         $(SUBDIRS)/out_rsma.o \
+         $(SUBDIRS)/out_rsmf.o \
          $(SUBDIRS)/out_lambda.o \
          $(SUBDIRS)/internal.o \
          $(SUBDIRS)/mk_error.o \
@@ -49,7 +49,7 @@ MODOBJS= $(MODULES)/mod_input.o \
          $(MODULES)/mod_disp.o \
          $(MODULES)/mod_dncscan.o \
          $(MODULES)/mod_grad.o \
-         $(MODULES)/mod_gap.o \
+         $(MODULES)/mod_gfi.o \
          $(MODULES)/mod_lambda.o \
          $(MODULES)/mod_output.o \
          $(MODULES)/mod_quantics.o \
