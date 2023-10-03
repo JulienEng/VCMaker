@@ -31,7 +31,7 @@
         write(*,*) '|  * Chemistry, School of Natural and Environmental Sciences, |'
         write(*,*) '|    Newcastle University, NE1 7RU, Newcastle Upon Tyne, UK   |'
         write(*,*) '|                                                             |' 
-        write(*,*) '| VCMaker website: julieneng.github.io/VCMaker/               |' 
+        write(*,*) '| VCMaker website: https://vcmaker.glitch.me/                 |' 
         write(*,*) '|                                                             |' 
         write(*,*) '| Cite me as (bibtex entry at the end):                       |'
         write(*,*) '+=============================================================+'
